@@ -35,7 +35,7 @@
   <link rel="stylesheet" href="vistas/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
   
 
-<<<<<<< HEAD
+
 
         </div>
         <div class="card-body">
@@ -44,7 +44,7 @@
             <table class="table table-bordered table-striped tablas">
 
               <thead>
-=======
+
             <div class="card">
               <div class="card-header">
                
@@ -53,7 +53,7 @@
               <div class="card-body">
                 <table id="example1" class="table table-bordered table-striped tablas">
                 <thead>
->>>>>>> 0491fbd0637fd06169db0d8eca30dfca1cf710fb
+
                 <tr>
                   <th>#</th>
                   <th>Nombre</th>
@@ -71,10 +71,7 @@
                   <td>1</td>
                   <td>Alejandro</td>
                   <td>Alejo</td>
-<<<<<<< HEAD
-                  <td></td>
-                  <td><button class="btn btn-success btn-xs">Activo</button></td>
-=======
+
                   <td></td>
                   <td><button class="btn btn-success btn-xs">Activo</button></td>
                   <td>2022-01-11</td>
@@ -107,7 +104,6 @@
                   <td>thomas</td>
                   <td></td>
                   <td><button class="btn btn-success btn-xs">Activo</button></td>
->>>>>>> 0491fbd0637fd06169db0d8eca30dfca1cf710fb
                   <td>2022-01-11</td>
                   <td>
                     <div class="btn group">
