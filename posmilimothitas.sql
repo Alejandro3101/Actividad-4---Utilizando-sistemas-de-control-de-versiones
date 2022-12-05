@@ -1,11 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 4.9.1
--- https://www.phpmyadmin.net/
---
--- Servidor: 127.0.0.1
--- Tiempo de generación: 27-07-2021 a las 20:25:55
--- Versión del servidor: 10.4.8-MariaDB
--- Versión de PHP: 7.3.11
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -81,39 +73,7 @@ CREATE TABLE `departamento` (
 --
 
 INSERT INTO `departamento` (`Id`, `Nombre`) VALUES
-(1, 'Amazonas'),
-(2, 'Antioquia'),
-(3, 'Arauca'),
-(4, 'Atlántico'),
-(5, 'Bogotá'),
-(6, 'Bolívar'),
-(7, 'Boyacá'),
-(9, 'Caldas'),
-(10, 'Caquetá'),
-(11, 'Casanare'),
-(12, 'Cauca'),
-(13, 'Cesar'),
-(14, 'Chocó'),
-(15, 'Córdoba'),
-(16, 'Cundinamarca'),
-(17, 'Guainía'),
-(18, 'Guaviare'),
-(19, 'Huila'),
-(20, 'La Guajira'),
-(21, 'Magdalena'),
-(22, 'Meta'),
-(23, 'Nariño'),
-(24, 'Norte de Santander'),
-(25, 'Putumayo'),
-(26, 'Quindío'),
-(27, 'Risaralda'),
-(28, 'San Andrés y Providencia'),
-(29, 'Santander'),
-(30, 'Sucre'),
-(31, 'Tolima'),
-(32, 'Valle del Cauca'),
-(33, 'Vaupés'),
-(34, 'Vichada');
+
 
 -- --------------------------------------------------------
 
