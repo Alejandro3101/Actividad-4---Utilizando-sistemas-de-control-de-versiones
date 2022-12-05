@@ -1,0 +1,6 @@
+
+Script pra traer plantilla admin lte
+<!-- AdminLTE for demo purposes -->
+<script src="vistas/dist/js/demo.js"></script>
+
+
